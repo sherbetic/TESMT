@@ -2,7 +2,7 @@
 ## MADE BY YOUR TRUSTY TESMT COMMUNITY DEV-TEAM!
 
 Welcome back, or if you are truly one of many originals who have been here from the start..
-THE EPIC SUPER MARKET THINGY: REBOOTED! The best hangout game money could buy! (from our view)
+**THE EPIC SUPER MARKET THINGY: REBOOTED!** The best hangout game money could buy! (from our view)
 
 This is a hangout game, And is made with love and memories :3
 Fresh-picked from the soil, this game contains many aspects of different games that rely on the same details and topic.. basically!
@@ -11,7 +11,7 @@ Fresh-picked from the soil, this game contains many aspects of different games t
 The game offers a gameplay loop that you should attain by playing the game! And many, many secrets so I suggest you look with a keen eye.
 
 Note: We hope you enjoy your stay here, its cozy with friends by the way! Invite them if you'd like!
-Join the group and community server for further support.
+Join the [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) and [DISCORD](https://discord.gg/zZh5rzVtgy) for further support.
 *Game is recommended for high-end devices.*
 
 # WHAT IS TESMT?
@@ -29,11 +29,11 @@ Although not asked for - it is entirely up to you to support this ongoing projec
 I, and the other developers are likely not to take greed or pride in earning money as it's not our primary objective.
 
 You are able to support via the purchasing of GAMEPASSES via the ROBLOX page store where gamepasses are located, and more importantly..
-Join our GROUP and DISCORD! It is a free, kindful way to say you like where things are headed! So take the time! <3
+Join our [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) and [DISCORD!](https://discord.gg/zZh5rzVtgy) It is a free, kindful way to say you like where things are headed! So take the time! <3
 
 # WHERE CAN I FIND THIS GAME?
 
-You are able to find this awesome game via the links inside of the gameinformation folder, or by clicking here.
+You are able to find this awesome game via the links inside of the gameinformation folder, or by clicking [here.](https://www.roblox.com/games/14969290168/tesmt-rebooted)
 The game is available on only PC devices for now - with soon to support mobile devices in the near future.
 
 ###### Or, alternatively you can use ROBLOX's "Exact Search" feature to locate us!
