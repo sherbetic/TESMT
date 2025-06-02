@@ -12,6 +12,7 @@ The game offers a gameplay loop that you should attain by playing the game! And 
 
 Note: We hope you enjoy your stay here, its cozy with friends by the way! Invite them if you'd like!
 Join the [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) and [DISCORD](https://discord.gg/zZh5rzVtgy) for further support.
+
 *Game is recommended for high-end devices.*
 
 # WHAT IS TESMT?
