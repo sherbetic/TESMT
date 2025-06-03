@@ -1,9 +1,8 @@
 # CHANGELOG:
 
 # TESMT: REBOOTED
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-All important and notable changes/updates to TESMT: REBOOTED will be documented/archived here inside this file.
+*All important and notable changes/updates to TESMT: REBOOTED will be documented/archived here inside this file.*
 
 Random message/announcement here.
 
