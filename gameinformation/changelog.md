@@ -21,42 +21,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [v2.0.0R] - YY/MM/DD, PLACE VERSION: ????
 
 ### Added:
-- test
-  - test
-- test
-  - test
-- test
-  - test
-- test
-  - test
-- test
-  - test
+
 - test
   - test
 
 ### Changed:
 
 - test
-- test
-- test
-- test
-- test
+  - test
 
 ### Removed:
 
 - test
-- test
-- test
-- test
-- test
+  - test
 
 ### Fixes:
 
 - test
-- test
-- test
-- test
-- test
-
-
-
+  - test
