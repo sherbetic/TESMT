@@ -1,6 +1,7 @@
 # CHANGELOG:
 
 # TESMT: REBOOTED
+$\color{Apricot}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$
 
 All important and notable changes/updates to TESMT: REBOOTED will be documented/archived here inside this file.
 
