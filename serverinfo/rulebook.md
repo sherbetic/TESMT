@@ -2,6 +2,8 @@
 
 ## Mandatory RULEBOOK shown to our players to follow accordingly.
 
+---
+
 ### SERVER:
 
 <b>{/1.</b> No NSFW/gore, and/or depictions of NSFW/gore, art, or media. If this is seen done, it's a immediate ban. 
@@ -23,6 +25,8 @@
 <b>{/9.</b> Follow ALL Discord's Policies and Terms of Service. This means you can't be under 13.
 
 TLDR: Just use common sense. This is a community server.
+
+---
 
 ### IN-GAME:
 
