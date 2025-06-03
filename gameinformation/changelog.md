@@ -1,7 +1,7 @@
 # CHANGELOG:
 
 # TESMT: REBOOTED
-$${\hi{red}Red}$$
+$${\hi{}Red}$$
 
 All important and notable changes/updates to TESMT: REBOOTED will be documented/archived here inside this file.
 
