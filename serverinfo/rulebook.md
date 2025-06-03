@@ -27,7 +27,7 @@ TLDR: Just use common sense. This is a community server.
 ### IN-GAME:
 
 <b>{/1.</b> Refrain from breaking Roblox's Policies and Terms of Service. You will be kicked.
-##### Read article [Roblox's Term of Use]: https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use for more info.
+##### Read article [Roblox's Term of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) for more info.
 
 <b>{/2.</b> Do not make an attempt to exploit, or hack inside of the game, nor discuss. If seen, it is a kick then a ban.
 ##### {Making an attempt to exploit to gain in-game features, or to break the experience for others.}
