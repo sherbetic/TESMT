@@ -37,9 +37,9 @@ You are able to support via the purchasing of GAMEPASSES via the ROBLOX page sto
 Join our [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) and [DISCORD!](https://discord.gg/zZh5rzVtgy) It is a free, kindful way to say you like where things are headed! So take the time! <3
 
 # Q: WHERE CAN I FIND THIS GAME?
-
+<br>
 <b>A:</b>THE GAME IS CURRENTLY IN A DEVELOPING STATE!! It is not released and only the LEGACY version is available.
-
+</br>
 
 You are able to find this awesome game via the links inside of the gameinformation folder, or by clicking [here.](https://www.roblox.com/games/14969290168/tesmt-rebooted)
 The game is available on only PC devices for now - with soon to support mobile devices in the near future.. hopefully!
