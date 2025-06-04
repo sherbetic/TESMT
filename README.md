@@ -41,8 +41,9 @@ Join our [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) an
 <b>A:</b> THE GAME IS CURRENTLY IN A DEVELOPING STATE!! It is not released and only the LEGACY version is available.
 <br>
 
-You are able to find this awesome game via the links inside of the gameinformation folder, or by clicking [here.](https://www.roblox.com/games/14969290168/tesmt-rebooted)
+You are able to find this awesome (unreleased) game via the links inside of the gameinformation folder, or by clicking [here.](https://www.roblox.com/games/14969290168/tesmt-rebooted)
 The game is available on only PC devices for now - with soon to support mobile devices in the near future.. hopefully!
+You may play the more janky and old version right [here,](https://www.roblox.com/games/7316338867/LEGACY-the-epic-super-market-thingy) but is not suggested as it won't be as good as what's to come!
 ###### Or, alternatively you can use ROBLOX's "Exact Search" feature to locate us!
 
 # Q: WHO ARE YOU?
