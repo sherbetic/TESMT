@@ -19,7 +19,8 @@ Join the [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) an
 
 # Q: WHAT IS TESMT?
 
-<b>A:</b> Tesmt is a community based hangout game on the ROBLOX platform made to make bonds or relations - friends or groups inside the game! 
+<b>A:</b> TESMT is a community based hangout game on the ROBLOX platform made to make bonds or relations - friends or groups inside the game!
+Venture off in a bright, foilage-like floating island full of life and a livelyhood of a town who all get together once in a while.
 The game itself is based off of STUD-BASED design, a type of roblox style usually refered to as "retro" or "classic."
 
 Inside of the game, you are given the option to hang around with new or fond friends yet to be made exploring the vast world of bright colors and lights.
@@ -28,8 +29,9 @@ There are NPC's seen roaming or stationary at most - players are able to talk to
 
 # Q: WHAT CAN I DO TO SUPPORT?
 
-<b>A:</b> Although not asked for - it is entirely up to you to support this ongoing project!
+<b>A:</b> Although not asked for primarily - it is entirely up to you to support this ongoing project!
 I, and the other developers are likely not to take greed or pride in earning money as it's not our primary objective.
+It would be generous!
 
 You are able to support via the purchasing of GAMEPASSES via the ROBLOX page store where gamepasses are located, and more importantly..
 Join our [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) and [DISCORD!](https://discord.gg/zZh5rzVtgy) It is a free, kindful way to say you like where things are headed! So take the time! <3
@@ -37,8 +39,7 @@ Join our [GROUP](https://www.roblox.com/communities/33202011/tesmt-community) an
 # Q: WHERE CAN I FIND THIS GAME?
 
 <b>A:</b> You are able to find this awesome game via the links inside of the gameinformation folder, or by clicking [here.](https://www.roblox.com/games/14969290168/tesmt-rebooted)
-The game is available on only PC devices for now - with soon to support mobile devices in the near future.
-
+The game is available on only PC devices for now - with soon to support mobile devices in the near future.. hopefully!
 ###### Or, alternatively you can use ROBLOX's "Exact Search" feature to locate us!
 
 # Q: WHO ARE YOU?
