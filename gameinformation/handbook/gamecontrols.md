@@ -4,15 +4,15 @@
 
 ## Keybinds:
 
-Z to interact with NPCS, continue said dialogue
+### Z to interact with NPCS, continue said dialogue
 
-X to disclose dialogue
+### X to disclose dialogue
 
-C to crawl
+### C to crawl
 
-SHIFT to run
+### SHIFT to run
 
-CTRL to Shift-Lock
+### CTRL to Shift-Lock
 
 
 ###### Keybinds are manageable in settings.
