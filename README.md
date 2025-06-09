@@ -3,7 +3,7 @@
 <h1 align="center">THE EPIC SUPER MARKET THINGY</h1>
 <h2 align="center">MADE BY YOUR TRUSTY TESMT COMMUNITY DEV-TEAM!</h2>
 
-Welcome back, or if you are truly one of many originals who have been here from the start..
+*Welcome back, or if you are truly one of many originals who have been here from the start..*
 **THE EPIC SUPER MARKET THINGY: REBOOTED!** The best hangout game money could buy! (from our view)
 
 This is a hangout game, And is made with love and memories :3
