@@ -1,3 +1,5 @@
+![alt text](https://github.com/user-attachments/assets/0969a1f5-8bb1-4bc4-8bba-90a6495a3ee8)
+
 # DEFAULT CONTROLS LIST
 
 ## Keybinds:
